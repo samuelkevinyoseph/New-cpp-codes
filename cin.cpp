@@ -8,7 +8,7 @@ int main()
 
   cout << "Enter your name: ";
   cin >> name;
-  cout << "Hello" << name << endl;
+  cout << "Hello\t" << name << endl;
 
   return 0;
 }
