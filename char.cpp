@@ -5,7 +5,7 @@ using namespace std;
 
 int main ()
 {
-  char lang[10] = {'E','n','g','l','s','h','\0'};
+  char lang[10] = {'E','n','g','l','e','s','h','\0'};
   char secondlang[] = "Spanish";
   char languages[30];
   int length;
